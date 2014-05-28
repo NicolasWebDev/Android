@@ -1,0 +1,4 @@
+INDEX VERSION 1.126+/home/nicolas/adt-bundle-linux-x86_64-20140321/workspace/.metadata/.plugins/org.eclipse.jdt.core
+3731511351.index
+866590198.index
+2532160126.index
